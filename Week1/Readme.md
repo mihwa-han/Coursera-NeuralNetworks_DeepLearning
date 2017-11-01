@@ -1,4 +1,4 @@
-## Outline of this Course
+# Outline of this Course
 
 ### Week 1 : Introduction
 
