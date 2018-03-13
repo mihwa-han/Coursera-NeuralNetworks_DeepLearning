@@ -1,1 +1,0 @@
-# Shallow Neural Network
